@@ -1,5 +1,5 @@
 ---
 title: Welcome to my blog
-  note : i don't do blogs
+  note i don't do blogs lol
 ---
 
